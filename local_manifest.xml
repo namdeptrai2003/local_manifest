@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <!-- device tree -->	
+    <project path="device/xiaomi/rolex" name="Redmi4A/android_device_xiaomi_rolex" remote="github" revision="cm-13.0" />
+    <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="cm-13.0" />
+    
+    <!-- vendor -->
+    <project path="vendor/xiaomi" name="Redmi4A/proprietary_vendor_xiaomi" remote="github" revision="cm-13.0" />
+
+</manifest>
