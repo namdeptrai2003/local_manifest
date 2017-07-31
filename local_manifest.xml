@@ -9,6 +9,6 @@
     <project path="kernel/xiaomi/msm8937" name="Redmi4A/android_kernel_xiaomi_msm8937" remote="github" revision="cm-14.1" />
     
     <!-- vendor -->
-    <project path="vendor/xiaomi/rolex" name="Redmi4A/android_vendor_xiaomi_rolex" remote="github" revision="cm-13.0" />
+    <project path="vendor/xiaomi/rolex" name="Redmi4A/android_vendor_xiaomi_rolex" remote="github" revision="cm-14.1" />
 
 </manifest>
