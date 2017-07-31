@@ -13,11 +13,11 @@ Next, naviate into that new directory via the terminal:
 
 To initialize your local repository use this command:
 
-	repo init -u git://github.com/LineageOS/android.git -b cm-13.0
+	repo init -u git://github.com/LineageOS/android.git -b cm-14.1
 
 Also add the local manifests:
 
-	git clone https://github.com/Redmi4A/local_manifest -b cm-13.0 .repo/local_manifests
+	git clone https://github.com/Redmi4A/local_manifest -b cm-14.1 .repo/local_manifests
 
 Then sync up with this command:
 
